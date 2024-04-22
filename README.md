@@ -1,2 +1,2 @@
-# dictionary
+# myproject
 dictionary with work
